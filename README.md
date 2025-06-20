@@ -1,6 +1,6 @@
-# React Contact List Mini App
+# React Contact List App
 
-Một ứng dụng quản lý danh bạ đơn giản được xây dựng bằng React và Redux.
+Một ứng dụng quản lý danh sách địa chỉ Email đơn giản được xây dựng bằng React và Redux.
 
 ## Chức năng
 
