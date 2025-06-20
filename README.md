@@ -1,31 +1,14 @@
-#### Problem statement:
- - Create a contact list app to manage contacts.
+# React Contact List Mini App
 
-#### Technology Used:
- - React Js
- - Java Script
- - Redux
- - CSS
- - HTML
+Một ứng dụng quản lý danh bạ đơn giản được xây dựng bằng React và Redux.
 
- ## Install
+## Chức năng
 
-To install all the dependences of the project, run the following command:
+- **CRUD:** Thêm, Xem, Sửa, Xóa liên hệ.
+- **Tìm kiếm:** Lọc danh sách theo tên, email, số điện thoại.
+- **Lưu trữ:** Dữ liệu được lưu vào `localStorage` của trình duyệt.
 
-    git clone https://github.com/shakti1590/Contact-list-using-react.git
-    npm install
-    npm start
+## Cách chạy
 
-
-#### Source Code:
- - Link : https://github.com/shakti1590/Contact-list-using-react
-
-
-#### Deployment Link:
- - Link : https://contact-list-using-react.vercel.app/
-
-
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
-
+1.  `npm install`
+2.  `npm start`
