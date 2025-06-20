@@ -2,7 +2,7 @@
   "name": "contact-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ntrngyn/react-contact-list-app",
+  "homepage": "https://ntrngyn.github.io/react-contact-list-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
