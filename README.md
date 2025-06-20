@@ -12,3 +12,7 @@ Một ứng dụng quản lý danh sách địa chỉ Email đơn giản đượ
 
 1.  `npm install`
 2.  `npm start`
+
+## Deployment Link:
+
+Link : https://ntrngyn.github.io/react-contact-list-app/
